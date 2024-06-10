@@ -42,8 +42,8 @@ Optional parameters:
   - key.separator="-"
   
 ## Examples
-1. Kafka with Java Maven Project
-2. Kafka with Spring Boot
+1. Kafka with Java Maven Project: This project create a consumer and a producer with Java 17
+2. Kafka with Spring Boot: This project create a consumer and a producer with Spring Boot and Java 17
   
 ## Documentation
 - [Kafka Doc](https://kafka.apache.org/documentation/)

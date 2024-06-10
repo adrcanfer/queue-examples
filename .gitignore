@@ -3,3 +3,4 @@ kafka-java/target
 kafka-java/.classpath
 kafka-java/.factorypath
 kafka-java/.project
+kafka-spring/.mvn
