@@ -4,3 +4,9 @@ kafka-java/.classpath
 kafka-java/.factorypath
 kafka-java/.project
 kafka-spring/.mvn
+.settings
+target
+*.project
+*.factorypath
+*.classpath
+.mvn
